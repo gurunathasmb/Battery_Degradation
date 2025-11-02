@@ -121,7 +121,7 @@ pip install streamlit
 
 ## 📜 License
 
-MIT License © 2025 — Developed by [Your Name or Team].
+MIT License © 2025 — Developed by Gurunathagouda.
 
 ---
 
